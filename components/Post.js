@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { ChatIcon, ShareIcon, ThumbUpIcon } from "@heroicons/react/outline";
 
-function Post({ name, message, email, timestamp, image, postImage }) {
+function Post({ name, message, timestamp, image, postImage }) {
   return (
     <div className="flex flex-col">
       <div className="p-5 bg-white mt-5 rounded-t-2xl shadow-sm">
