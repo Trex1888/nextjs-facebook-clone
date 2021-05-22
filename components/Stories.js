@@ -3,13 +3,13 @@ import StoryCard from "./StoryCard";
 const stories = [
   {
     id: 1,
-    name: "Ashley Going",
+    name: "Jim Morrison",
     src: "https://links.papareact.com/zof",
     profile: "https://links.papareact.com/l4v",
   },
   {
     id: 2,
-    name: "Jess Rabbit",
+    name: "Billy Rabbit",
     src: "https://links.papareact.com/4zn",
     profile: "https://links.papareact.com/kxk",
   },
